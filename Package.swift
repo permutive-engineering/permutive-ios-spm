@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name:"Permutive_iOS",
-		url:"https://storage.googleapis.com/permutive-ios-sdks/swift-sdk/Permutive_iOS-v3.1.0.zip",
-		checksum:"72862c1a256689273675a462ddb0400d11fe331a28661ec2b34f055017de7276")
+		url:"https://storage.googleapis.com/permutive-ios-sdks/swift-sdk/Permutive_iOS-v3.1.1.zip",
+		checksum:"38da87e802ea01e1c6b980a613b9ba935cf0437a4b0b89b1db2227676fd8b331")
     ]
 )
