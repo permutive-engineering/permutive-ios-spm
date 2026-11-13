@@ -14,6 +14,6 @@ Easily include Permutive SDK in your Podfile:
 ```
 target 'Your Target' do
     platform :ios, '13.0'
-    pod 'Permutive_iOS', '~> 3.2.0'
+    pod 'Permutive_iOS', '~> 3.3.0'
 end
 ```
